@@ -3,6 +3,8 @@
 Crafted to make game interactions **fun**, **intuitive**, and **totally hassle-free**!  
 Powered by Unity’s latest Input System, this asset removes the headaches of managing player inputs and interactions—so you can focus on your creativity and epic gameplay. 🌟🎨😎
 
+Package Downloadable from release https://github.com/Sarfraz-droid/Interactable-element/releases/tag
+
 ---
 
 ## 💬 Need Help or Want to Connect?
