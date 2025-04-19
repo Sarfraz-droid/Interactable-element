@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef2024866e7e214e8ff11510dc8d138, type: 3}
+  m_Name: KeysInfoObject
+  m_EditorClassIdentifier: 
+  width: 60
+  defaultSprite: {fileID: 21300000, guid: b1fc63bae9fd77647aa314f523641045, type: 3}
+  keyOverrides:
+  - keyCode: Mouse0
+    sprite: {fileID: 21300000, guid: 4a84cf10cf9f100478185ed5a495325d, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: Mouse1
+    sprite: {fileID: 21300000, guid: 3970f4913198fe742853c8378ae1a2e8, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: A
+    sprite: {fileID: 21300000, guid: be87295e3287f1e48817aeb1cb682515, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: B
+    sprite: {fileID: 21300000, guid: e4cbe85bfc678a742a25d51fdfe912d8, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: X
+    sprite: {fileID: 21300000, guid: 2d8e7609e5ef3f244a42ec44a1b89515, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: Y
+    sprite: {fileID: 21300000, guid: 8e803c4fe5df5a547b90ee31ff4c0e13, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: DPAD_DOWN
+    sprite: {fileID: 21300000, guid: 10e02311ca6b1c841a066615ccc83923, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: DPAD_UP
+    sprite: {fileID: 21300000, guid: 9a56e18715d67304780319d69e146e07, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: DPAD_LEFT
+    sprite: {fileID: 21300000, guid: c94e4a042be7faf40a75eb4809ddc115, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: DPAD_RIGHT
+    sprite: {fileID: 21300000, guid: bea89fa60eec44847b0777b011f1149a, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: LEFT_TRIGGER
+    sprite: {fileID: 21300000, guid: ecff3b4caa516194ea37751065537e06, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: RIGHT_TRIGGER
+    sprite: {fileID: 21300000, guid: 74f18fe7c21aa754fa6b4c36c938f2c4, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: LEFT_SHOULDER
+    sprite: {fileID: 21300000, guid: fdd1150bb9586534fbbfca283d90dc67, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: RIGHT_SHOULDER
+    sprite: {fileID: 21300000, guid: 2c01f949e9c3ac64d968c662f3e0ba57, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: L3
+    sprite: {fileID: 21300000, guid: d9ccef5f2441c6145aee71c947f4905c, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: R3
+    sprite: {fileID: 21300000, guid: 77444180bac888a45ba2e799fe3645be, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: START
+    sprite: {fileID: 21300000, guid: 630e35ef0d9b8b1449df0711abcec609, type: 3}
+    hasText: 0
+    keyText: 
+  - keyCode: SELECT
+    sprite: {fileID: 21300000, guid: abd4615e9a483464eb203dddc962320b, type: 3}
+    hasText: 0
+    keyText: 

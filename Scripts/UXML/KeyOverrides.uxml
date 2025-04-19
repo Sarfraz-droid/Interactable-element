@@ -1,0 +1,12 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <engine:VisualElement name="VisualElement" style="flex-grow: 1;">
+        <engine:DropdownField label="Key" name="KeyCodeDropdown" />
+        <editor:PropertyField binding-path="sprite" label="Sprite" name="Sprite" />
+        <editor:PropertyField binding-path="hasText" label="Has Text" name="HasText" />
+        <editor:PropertyField binding-path="keyText" label="Key Text" name="KeyText" />
+        <engine:VisualElement style="flex-grow: 1; display: none; flex-direction: row;">
+            <editor:PropertyField binding-path="width" label="Width Height Ratio" name="Width" style="flex-grow: 1;" />
+            <editor:PropertyField binding-path="height" label="Height" name="Height" style="flex-grow: 1;" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

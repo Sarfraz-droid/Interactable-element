@@ -1,0 +1,16 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <engine:VisualElement name="VisualElement" style="flex-grow: 1; height: 50px; background-color: rgb(255, 255, 255); padding-left: 8px; padding-top: 8px; padding-bottom: 8px; padding-right: 8px; align-self: auto; align-content: center; justify-content: space-between; align-items: center;">
+        <engine:Label text="IE - Interaction Element" style="-unity-font-style: bold; color: rgb(255, 0, 0); font-size: 24px;" />
+    </engine:VisualElement>
+    <engine:VisualElement name="GlobalVariables" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); margin-top: 16px; margin-bottom: 16px;">
+        <editor:PropertyField binding-path="interactionUserType" label="Interaction User Type" name="InteractionUserType" />
+    </engine:VisualElement>
+    <engine:VisualElement name="TPSVariables" style="flex-grow: 1; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; background-color: rgb(34, 34, 34); padding-left: 4px; padding-top: 4px; padding-right: 4px; padding-bottom: 4px;">
+        <editor:PropertyField binding-path="tpsInteractionTextContainer" name="TpsInteractionTextContainer" label="Interaction Text Container" />
+        <editor:PropertyField binding-path="loadingTexture" name="TPSLoadingTexture" label="Loading Texture" />
+    </engine:VisualElement>
+    <engine:VisualElement name="FPSVariables" style="flex-grow: 1; padding-left: 4px; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; background-color: rgb(34, 34, 34); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px;">
+        <editor:PropertyField binding-path="fpsInteractionUIContainer" label="Interaction UI Container" name="FPSInteractionUIContainer" />
+        <editor:PropertyField binding-path="loadingTexture" name="FPSLoadingTexture" label="Loading Texture" />
+    </engine:VisualElement>
+</engine:UXML>

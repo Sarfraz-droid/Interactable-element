@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement style="flex-grow: 1;">
+        <uie:PropertyField binding-path="isKeybind" label="Is Keybind" name="IsKeybind" />
+        <uie:PropertyField binding-path="showKeybindUI" label="Show Keybind UI" name="ShowKeybindUI" />
+        <ui:DropdownField label="Input Action Reference" name="InteractionActionReference"  />
+        <uie:PropertyField binding-path="interactionText" label="Interaction Text" name="InteractionText" />
+        <uie:PropertyField binding-path="interactionDelay" label="Interaction Delay" name="InteractionDelay" />
+        <uie:PropertyField binding-path="onInteract" label="On Interact" name="InteractionDelay" />
+    </ui:VisualElement>
+</ui:UXML>
