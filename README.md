@@ -5,6 +5,13 @@ Powered by Unity’s latest Input System, this asset removes the headaches of ma
 
 ---
 
+## 💬 Need Help or Want to Connect?
+
+Join our Discord community: [https://discord.gg/PaZsyz3k](https://discord.gg/PaZsyz3k)
+
+
+---
+
 ## 🎥 Demo  
 [**Movie_001.webm**](https://github.com/user-attachments/assets/c132e041-3f45-420f-ab69-8cc49e2c1598)
 
@@ -38,9 +45,3 @@ Precise analog input handling for ultra-responsive, immersive trigger-based inte
 ## 🚀 Why Use Interactable Element?
 
 **Interactable Element** isn’t just handy—it’s your ultimate toolkit for building awesome, device-friendly game interactions with ease and joy. Dive in, experiment, and take your Unity project to the next level of fun! 🎉🌈
-
----
-
-## 💬 Need Help or Want to Connect?
-
-Join our Discord community: [https://discord.gg/PaZsyz3k](https://discord.gg/PaZsyz3k)
